@@ -35,7 +35,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Homepage](Screenshots/desktop-home.png)
+![Desktop Homepage](Screenshots/desktop-preview.png)
 *Hero section with navigation and introduction*
 
 ![Desktop About](Screenshots/desktop-about.png)
@@ -49,16 +49,6 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 ![Desktop Contact](Screenshots/desktop-contact.png)
 *Contact section with form and information*
-
-### Mobile View
-![Mobile Homepage](Screenshots/mobile-home.png)
-*Responsive mobile homepage*
-
-![Mobile Menu](Screenshots/mobile-menu.png)
-*Mobile navigation menu*
-
-![Mobile Projects](Screenshots/mobile-projects.png)
-*Mobile-optimized projects section*
 
 ## 🚀 Technologies Used
 
